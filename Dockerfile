@@ -1,6 +1,6 @@
 # Pull tomcat as base image.
-FROM chandnimanak/tomcat:latest
+FROM cashwini/myimages:latest
 
-MAINTAINER Chandni 
+MAINTAINER Ashwini K 
 
 COPY target/*.war /usr/local/tomcat/webapps/
