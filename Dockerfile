@@ -1,5 +1,5 @@
 # Pull tomcat as base image.
-FROM cashwini/myimages:latest
+FROM ashwini/myimages:latest
 
 MAINTAINER Ashwini K 
 
