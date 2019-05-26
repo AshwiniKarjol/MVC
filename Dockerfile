@@ -1,5 +1,5 @@
 # Pull tomcat as base image.
-FROM ashwini/myimages:latest
+FROM seconddocker/myimages:latest
 
 MAINTAINER Ashwini K 
 
